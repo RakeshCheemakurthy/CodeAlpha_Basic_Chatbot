@@ -5,7 +5,7 @@ Python Internship Tasks - 🎮 Hangman Game, 🤖 Basic Chatbot and 📈 Stock P
 
 ---
 
-🤖 Project 2 - CodeAlpha_Basic_Chatbot
+## 🤖 Project 2 - CodeAlpha_Basic_Chatbot
 A Simple rule-based chatbot that responds to basic user inputs.
 
 🎯 Task 4: Basic Chatbot - 
